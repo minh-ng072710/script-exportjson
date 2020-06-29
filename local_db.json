@@ -1,0 +1,620 @@
+{
+  "Category": {
+    "__type__": "collection",
+    " soft_drink": {
+      "catID": "soft_drink",
+      "name": "Nước ngọt có gas",
+      "time": "2019-12-08  22:12:15",
+      "imgURL": "http://nguyengiaminh.herokuapp.com/Upload/1575012630172_1572891231379_cola.png"
+    },
+    "Beer": {
+      "catID": "Beer",
+      "name": "Nước uống có cồn",
+      "time": "2019-12-08  18:24:23",
+      "imgURL": "http://nguyengiaminh.herokuapp.com/Upload/1575012752758_beer.png"
+    },
+    "Water": {
+      "imgURL": "http://nguyengiaminh.herokuapp.com/Upload/1575012773951_nuoc-suoi.png",
+      "catID": "Water",
+      "name": "Nước Suối",
+      "time": "2019-12-08  18:24:18"
+    },
+    "milk": {
+      "catID": "milk",
+      "name": "Sữa",
+      "time": "2019-12-08  18:24:38",
+      "imgURL": "http://nguyengiaminh.herokuapp.com/Upload/1575012607755_milk.png"
+    },
+    "tea": {
+      "imgURL": "http://nguyengiaminh.herokuapp.com/Upload/1575012652714_tea.png",
+      "catID": "tea",
+      "name": "Trà",
+      "time": "2019-12-08  18:24:27"
+    }
+  },
+  "Feedback": {
+    "__type__": "collection",
+    "04K4058711611N37352OproExoKRcAZljiiO32JoGpl": {
+      "rating": 2,
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Nước uống vị kỳ kỳ",
+      "date": "2019-12-09 20:29:17.160886",
+      "proID": "ExoKRcAZljiiO32JoGpl",
+      "fbID": "04K4058711611N37352OproExoKRcAZljiiO32JoGpl"
+    },
+    "5cqSmK5Bu6rq7p0YkS8Vproua82mNHFimtoaCFV69DJ": {
+      "rating": 5,
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Sữa thơm ngon không bị hư, giao hàng đúng hẹn",
+      "date": "2019-12-09 00:21:46.402833",
+      "proID": "ua82mNHFimtoaCFV69DJ",
+      "fbID": "5cqSmK5Bu6rq7p0YkS8Vproua82mNHFimtoaCFV69DJ"
+    },
+    "72712617067628774108pro50ih84qxPAQN21N2TeKZ": {
+      "rating": 5,
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Ok",
+      "date": "2019-12-11 14:11:22.745460",
+      "proID": "50ih84qxPAQN21N2TeKZ",
+      "fbID": "72712617067628774108pro50ih84qxPAQN21N2TeKZ"
+    },
+    "81o53k3257655D2HoqigproAtspi4iYaW0mkGEcH35k": {
+      "rating": 4,
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Tốt",
+      "date": "2019-12-15 23:29:38.803486",
+      "proID": "Atspi4iYaW0mkGEcH35k",
+      "fbID": "81o53k3257655D2HoqigproAtspi4iYaW0mkGEcH35k"
+    },
+    "8rf1rK02mK0ipjcvnoX4prooc2mitEC9ZKOjLtaeB29": {
+      "content": "Dở",
+      "date": "2019-12-15 23:33:50.232017",
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "fbID": "8rf1rK02mK0ipjcvnoX4prooc2mitEC9ZKOjLtaeB29",
+      "rating": 1,
+      "email": "quynhhuong23697@gmail.com"
+    },
+    "E6N16H7UIOQAIQCXYvQWprooc2mitEC9ZKOjLtaeB29": {
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Bia ngon",
+      "date": "2019-12-09 20:28:59.372116",
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "fbID": "E6N16H7UIOQAIQCXYvQWprooc2mitEC9ZKOjLtaeB29",
+      "rating": 3
+    },
+    "M778W7KH4O23B470203YproAtspi4iYaW0mkGEcH35k": {
+      "email": "quynhhuong23697@gmail.com",
+      "content": "Ngon tuyệt ❤️ ",
+      "date": "2019-12-14 03:13:08.699620",
+      "proID": "Atspi4iYaW0mkGEcH35k",
+      "fbID": "M778W7KH4O23B470203YproAtspi4iYaW0mkGEcH35k",
+      "rating": 5
+    }
+  },
+  "User": {
+    "__type__": "collection",
+    "4ogXoqMfWxeD8ZTYrYsyxvenWnw1": {
+      "email": "huong.ttq3003@sinhvien.hoasen.edu.vn",
+      "accFullName": "Trần Thị Quỳnh Hoa",
+      "signupdate": "2019-12-15 21:39:30.161042",
+      "location": "234/56 Cao Thắng P3 Q3",
+      "phone": "0919680556",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "gender": "Nữ",
+      "imgURL": "",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
+    },
+    "iQcsG9jKPISra9gQeMdOsyQa1W62": {
+      "phone": "0919996565",
+      "userID": "iQcsG9jKPISra9gQeMdOsyQa1W62",
+      "gender": "Nam",
+      "imgURL": "",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "email": "tuan.tlv2141@gmail.com",
+      "accFullName": "Trần Lâm Viết Tuân",
+      "signupdate": "2019-12-01 22:15:41.274118",
+      "location": "Tân Bình"
+    },
+    "n4kKPHXzILP5ykv1SIfqZh5qAlr1": {
+      "email": "quynhhuong23697@gmail.com",
+      "accFullName": "Trần Thị Quỳnh Hương",
+      "signupdate": "2019-12-09 00:20:53.544078",
+      "location": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "phone": "09199999222",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "gender": "Nữ",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/ecommerce-3b4a8.appspot.com/o/user_profile_image%2F1576430030.png?alt=media&token=fa14c162-ca1f-4803-a774-ec8f1ab8e930",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
+    }
+  },
+  "Product": {
+    "__type__": "collection",
+    "50ih84qxPAQN21N2TeKZ": {
+      "endSale": "",
+      "quantity": 0,
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575915529918_4102270.png",
+      "favoriteCount": 2,
+      "catID": "soft_drink",
+      "isSale": 0,
+      "date": 1576428132494,
+      "price": 15000,
+      "proID": "50ih84qxPAQN21N2TeKZ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discount": 0,
+      "startSale": "",
+      "name": "coca cola zero"
+    },
+    "7ybaEflxl7lau7gpjkjG": {
+      "isSale": 1,
+      "date": 1576466077800,
+      "price": 30000,
+      "proID": "7ybaEflxl7lau7gpjkjG",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discount": 70,
+      "startSale": "2019-12-16 09:10:00",
+      "name": "bia tiger",
+      "endSale": "2019-12-20 01:00:00",
+      "quantity": 80,
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575915670109_bia-tiger-lon-bamboo-quan.png",
+      "favoriteCount": 1,
+      "catID": "Beer"
+    },
+    "Atspi4iYaW0mkGEcH35k": {
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1576073587057_fanta-limon-png-1.png",
+      "favoriteCount": 2,
+      "catID": "soft_drink",
+      "isSale": 0,
+      "date": 1576343077046,
+      "price": 25000,
+      "proID": "Atspi4iYaW0mkGEcH35k",
+      "description": "Nước có gas mới",
+      "discount": 0,
+      "startSale": "",
+      "name": "fanta chanh muối",
+      "quantity": 196,
+      "endSale": "",
+      "volumetric": 40
+    },
+    "ExoKRcAZljiiO32JoGpl": {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "discount": 0,
+      "startSale": "",
+      "name": "fanta nho",
+      "quantity": 111,
+      "endSale": "",
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575806096164_s-l300.png",
+      "favoriteCount": 3,
+      "catID": "soft_drink",
+      "isSale": 0,
+      "date": 1576442256087,
+      "price": 20000,
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "PHafCKsD2py5DuuPMKH9": {
+      "catID": "milk",
+      "isSale": 1,
+      "date": 1576427711764,
+      "price": 25000,
+      "proID": "PHafCKsD2py5DuuPMKH9",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discount": 50,
+      "startSale": "2019-12-14 01:22:00",
+      "name": "sữa milo",
+      "quantity": 188,
+      "endSale": "2019-12-25 17:05:00",
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575915578669_240ml.png",
+      "favoriteCount": 3
+    },
+    "oc2mitEC9ZKOjLtaeB29": {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "discount": 0,
+      "startSale": "",
+      "name": "bia budweiser",
+      "quantity": 42,
+      "endSale": "",
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575814858313_330.png",
+      "favoriteCount": 2,
+      "catID": "Beer",
+      "isSale": 0,
+      "date": 1576431724234,
+      "price": 25000,
+      "proID": "oc2mitEC9ZKOjLtaeB29"
+    },
+    "ua82mNHFimtoaCFV69DJ": {
+      "quantity": 112,
+      "endSale": "",
+      "volumetric": 45,
+      "imgURL": "https://nguyengiaminh.herokuapp.com/Upload/1575814884514_180ml.jpg",
+      "favoriteCount": 2,
+      "catID": "milk",
+      "isSale": 0,
+      "date": 1576343016715,
+      "price": 10000,
+      "proID": "ua82mNHFimtoaCFV69DJ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "discount": 0,
+      "startSale": "",
+      "name": "th true milk"
+    }
+  },
+  "OrderDetail": {
+    "__type__": "collection",
+    "12xV63n17311FU023665": {
+      "quantity": 1,
+      "orderPrice": 30000,
+      "receiptID": "mDYrWATIRJUINXXTLr2F",
+      "orderDetaileID": "12xV63n17311FU023665",
+      "proID": "7ybaEflxl7lau7gpjkjG"
+    },
+    "13OI23N2A6Wl5T483CP8": {
+      "receiptID": "80o33524760030764C36",
+      "orderDetaileID": "13OI23N2A6Wl5T483CP8",
+      "proID": "ExoKRcAZljiiO32JoGpl",
+      "quantity": 1,
+      "orderPrice": 20000
+    },
+    "1776e775575H6836mF17": {
+      "quantity": 1,
+      "orderPrice": 10000,
+      "receiptID": "50284W4AX1j0V5NlLPEA",
+      "orderDetaileID": "1776e775575H6836mF17",
+      "proID": "ua82mNHFimtoaCFV69DJ"
+    },
+    "26537076875332305746": {
+      "orderDetaileID": "26537076875332305746",
+      "proID": "PHafCKsD2py5DuuPMKH9",
+      "quantity": 2,
+      "orderPrice": 25000,
+      "receiptID": "7E6UiK21D52572865118"
+    },
+    "2dYD1Qn73YSO7L5aGXLH": {
+      "orderDetaileID": "2dYD1Qn73YSO7L5aGXLH",
+      "proID": "iBH5MIhiE1EtWcJKkDor",
+      "quantity": 1,
+      "orderPrice": 30000,
+      "receiptID": "xy3t6tqp4a7ox1gpsjJg"
+    },
+    "33AVRSX8G4LE86511KE2": {
+      "receiptID": "30577042251270767348",
+      "orderDetaileID": "33AVRSX8G4LE86511KE2",
+      "proID": "ua82mNHFimtoaCFV69DJ",
+      "quantity": 1,
+      "orderPrice": 10000
+    },
+    "5280786N382355048303": {
+      "receiptID": "50284W4AX1j0V5NlLPEA",
+      "orderDetaileID": "5280786N382355048303",
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "quantity": 1,
+      "orderPrice": 25000
+    },
+    "5513070477t32Tj88M2b": {
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "quantity": 1,
+      "orderPrice": 25000,
+      "receiptID": "80o33524760030764C36",
+      "orderDetaileID": "5513070477t32Tj88M2b"
+    },
+    "551488n7507B03107537": {
+      "quantity": 2,
+      "orderPrice": 40000,
+      "receiptID": "7E6UiK21D52572865118",
+      "orderDetaileID": "551488n7507B03107537",
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "725p085t461j05D5544d": {
+      "receiptID": "mc3r1sLf4qj7AG04y0X7",
+      "orderDetaileID": "725p085t461j05D5544d",
+      "proID": "Atspi4iYaW0mkGEcH35k",
+      "quantity": 1,
+      "orderPrice": 25000
+    },
+    "72703045433O0EN88106": {
+      "orderDetaileID": "72703045433O0EN88106",
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "quantity": 1,
+      "orderPrice": 25000,
+      "receiptID": "6sd1e07G6s0x1yktp3wF"
+    },
+    "8Ys5bV6p7N76GPJohJTL": {
+      "receiptID": "30577042251270767348",
+      "orderDetaileID": "8Ys5bV6p7N76GPJohJTL",
+      "proID": "PHafCKsD2py5DuuPMKH9",
+      "quantity": 1,
+      "orderPrice": 12500
+    },
+    "B64n654qBmev5u53Xu1k": {
+      "quantity": 1,
+      "orderPrice": 20000,
+      "receiptID": "6sd1e07G6s0x1yktp3wF",
+      "orderDetaileID": "B64n654qBmev5u53Xu1k",
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "EWO147O7d7JC88VPN1xL": {
+      "orderDetaileID": "EWO147O7d7JC88VPN1xL",
+      "proID": "7ybaEflxl7lau7gpjkjG",
+      "quantity": 1,
+      "orderPrice": 30000,
+      "receiptID": "13653862364756676418"
+    },
+    "F86RkL6y3F4cwr1pu3cP": {
+      "proID": "ExoKRcAZljiiO32JoGpl",
+      "quantity": 2,
+      "orderPrice": 40000,
+      "receiptID": "mDYrWATIRJUINXXTLr2F",
+      "orderDetaileID": "F86RkL6y3F4cwr1pu3cP"
+    },
+    "HF8Qf7C1f082d1QjPoOk": {
+      "orderDetaileID": "HF8Qf7C1f082d1QjPoOk",
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "quantity": 1,
+      "orderPrice": 25000,
+      "receiptID": "80o33524760030764C36"
+    },
+    "I41WX2PP62KBH2628qT5": {
+      "proID": "7ybaEflxl7lau7gpjkjG",
+      "quantity": 1,
+      "orderPrice": 30000,
+      "receiptID": "xy3t6tqp4a7ox1gpsjJg",
+      "orderDetaileID": "I41WX2PP62KBH2628qT5"
+    },
+    "LR083F3453710170B758": {
+      "proID": "oc2mitEC9ZKOjLtaeB29",
+      "quantity": 1,
+      "orderPrice": 25000,
+      "receiptID": "mc3r1sLf4qj7AG04y0X7",
+      "orderDetaileID": "LR083F3453710170B758"
+    },
+    "ub1H816FD2U3066w7F4k": {
+      "orderDetaileID": "ub1H816FD2U3066w7F4k",
+      "proID": "ua82mNHFimtoaCFV69DJ",
+      "quantity": 1,
+      "orderPrice": 10000,
+      "receiptID": "13653862364756676418"
+    },
+    "v2d2Fy4714414474mo82": {
+      "receiptID": "30577042251270767348",
+      "orderDetaileID": "v2d2Fy4714414474mo82",
+      "proID": "ExoKRcAZljiiO32JoGpl",
+      "quantity": 1,
+      "orderPrice": 20000
+    }
+  },
+  "Admin": {
+    "__type__": "collection",
+    "gipy0cJZAjAHWi0NJf9v": {
+      "Phone": "0908407509",
+      "AcFullName": "Trần thị quỳnh hương",
+      "Passwords": "$2b$10$8tYfGQAB7IyeetrDR0tyiuF2ois2/Kn2nKp6aVcAfVVahs4zLC6Ji",
+      "random": "2628588524",
+      "Gender": "Nam",
+      "url": "https://nguyengiaminh1.herokuapp.com/Upload/1576486774650_huong.jpg",
+      "Email": "minh.ng2419@sinhvien.hoasen.edu.vn",
+      "Address": "8 nguyễn văn tráng",
+      "Time": "2019-12-16 15:59:35",
+      "active": 0,
+      "id": "gipy0cJZAjAHWi0NJf9v"
+    },
+    "sDmraP6h1IwFTHZojhJ2": {
+      "Phone": "0947171598",
+      "AcFullName": "Nguyễn Gia Minh",
+      "Passwords": "$2b$10$55tKOvmkozv2I3My/M2dRev/ZSOXcoys9t7Mi.D44ODVZ.E0BcEw.",
+      "Gender": "Nam",
+      "url": "https://nguyengiaminh.herokuapp.com/Upload/1575133206338_minh.jpg",
+      "Email": "minh@gmail.com",
+      "Address": "356 Bạch Đằng Phường 14 Quận Bình Thạnh ",
+      "Time": "2019-12-01 12:00:06",
+      "active": "1",
+      "id": "sDmraP6h1IwFTHZojhJ2"
+    }
+  },
+  "Favorite": {
+    "__type__": "collection",
+    "340t6GLLVH5RY0G3N2hQ": {
+      "favoriteID": "340t6GLLVH5RY0G3N2hQ",
+      "userID": "iQcsG9jKPISra9gQeMdOsyQa1W62",
+      "date": "2019-12-16 00:45:46.600507",
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "34603843435725105820": {
+      "favoriteID": "34603843435725105820",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-14 03:13:15.804488",
+      "proID": "Atspi4iYaW0mkGEcH35k"
+    },
+    "3c4x44707605772420B2": {
+      "proID": "iBH5MIhiE1EtWcJKkDor",
+      "favoriteID": "3c4x44707605772420B2",
+      "userID": "iQcsG9jKPISra9gQeMdOsyQa1W62",
+      "date": "2019-12-16 00:45:50.811448"
+    },
+    "51502443157220203841": {
+      "proID": "FhKu1r4U7kJsHLJMTckT",
+      "favoriteID": "51502443157220203841",
+      "userID": "50S8XsRsMDU2v9jxdZ5LpnGEcxW2",
+      "date": "2019-12-16 10:20:33.664629"
+    },
+    "564URlh3iyy557yb4S5j": {
+      "favoriteID": "564URlh3iyy557yb4S5j",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "date": "2019-12-16 00:46:44.221465",
+      "proID": "PHafCKsD2py5DuuPMKH9"
+    },
+    "6076yvbpvT6wm505324V": {
+      "favoriteID": "6076yvbpvT6wm505324V",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-12 14:42:10.085002",
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "6k8W778I54aR588eB22d": {
+      "favoriteID": "6k8W778I54aR588eB22d",
+      "userID": "iQcsG9jKPISra9gQeMdOsyQa1W62",
+      "date": "2019-12-16 00:45:43.667658",
+      "proID": "50ih84qxPAQN21N2TeKZ"
+    },
+    "81108426A2g6bD32g31v": {
+      "favoriteID": "81108426A2g6bD32g31v",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "date": "2019-12-16 00:46:23.746529",
+      "proID": "ExoKRcAZljiiO32JoGpl"
+    },
+    "C736321L582L37877237": {
+      "favoriteID": "C736321L582L37877237",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "date": "2019-12-16 00:46:36.061448",
+      "proID": "ua82mNHFimtoaCFV69DJ"
+    },
+    "CK1k43MEoR374IBPY504": {
+      "proID": "PHafCKsD2py5DuuPMKH9",
+      "favoriteID": "CK1k43MEoR374IBPY504",
+      "userID": "iQcsG9jKPISra9gQeMdOsyQa1W62",
+      "date": "2019-12-16 00:45:53.604952"
+    },
+    "Dqg561L66Y03Abxg3cb4": {
+      "date": "2019-12-16 00:45:09.834906",
+      "proID": "iBH5MIhiE1EtWcJKkDor",
+      "favoriteID": "Dqg561L66Y03Abxg3cb4",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1"
+    },
+    "J0O5SGAI5AQKyLB6LFDi": {
+      "favoriteID": "J0O5SGAI5AQKyLB6LFDi",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "date": "2019-12-16 00:46:39.583041",
+      "proID": "oc2mitEC9ZKOjLtaeB29"
+    },
+    "QExGh3IKh1HKvtSCwagc": {
+      "favoriteID": "QExGh3IKh1HKvtSCwagc",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-16 00:45:05.016406",
+      "proID": "7ybaEflxl7lau7gpjkjG"
+    },
+    "QqVyCqHMbKFghRX3XQiJ": {
+      "proID": "ua82mNHFimtoaCFV69DJ",
+      "favoriteID": "QqVyCqHMbKFghRX3XQiJ",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-16 00:45:13.356055"
+    },
+    "TH3PFHPHHQLER75PLCGB": {
+      "proID": "PHafCKsD2py5DuuPMKH9",
+      "favoriteID": "TH3PFHPHHQLER75PLCGB",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-11 16:52:33.498904"
+    },
+    "c0jt34Hh8d2dgpT421ju": {
+      "favoriteID": "c0jt34Hh8d2dgpT421ju",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-16 00:45:02.240877",
+      "proID": "50ih84qxPAQN21N2TeKZ"
+    },
+    "deaflTqwqdkkj1tyddqq": {
+      "favoriteID": "deaflTqwqdkkj1tyddqq",
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "date": "2019-12-16 00:46:11.661769",
+      "proID": "Atspi4iYaW0mkGEcH35k"
+    },
+    "ui4Lkr6XP245p6t1cD78": {
+      "favoriteID": "ui4Lkr6XP245p6t1cD78",
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "date": "2019-12-16 00:45:16.958405",
+      "proID": "oc2mitEC9ZKOjLtaeB29"
+    }
+  },
+  "Receipt": {
+    "__type__": "collection",
+    "13653862364756676418": {
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 40000,
+      "deliveryAdd": "Quận Quít",
+      "status": "Đã hủy",
+      "receiptID": "13653862364756676418",
+      "date": "2019-12-16 09:17:17"
+    },
+    "30577042251270767348": {
+      "status": "Chờ xử lý",
+      "receiptID": "30577042251270767348",
+      "date": "2019-12-16 12:07:50.648880",
+      "phone": 919680556,
+      "totalPro": 3,
+      "userID": "4ogXoqMfWxeD8ZTYrYsyxvenWnw1",
+      "totalPrice": 42500,
+      "deliveryAdd": "234/56 Cao Thắng P3 Q3"
+    },
+    "50284W4AX1j0V5NlLPEA": {
+      "receiptID": "50284W4AX1j0V5NlLPEA",
+      "date": "2019-12-16 09:16:48",
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 35000,
+      "deliveryAdd": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "status": "Đã giao"
+    },
+    "6sd1e07G6s0x1yktp3wF": {
+      "receiptID": "6sd1e07G6s0x1yktp3wF",
+      "date": "2019-12-12 15:21:56",
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 45000,
+      "deliveryAdd": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "status": "Đang giao"
+    },
+    "7E6UiK21D52572865118": {
+      "status": "Đã giao",
+      "receiptID": "7E6UiK21D52572865118",
+      "date": "2019-12-16 01:57:40",
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 65000,
+      "deliveryAdd": "Quận 2"
+    },
+    "80o33524760030764C36": {
+      "phone": 9199999222,
+      "totalPro": 3,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 70000,
+      "deliveryAdd": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "status": "Đã giao",
+      "receiptID": "80o33524760030764C36",
+      "date": "2019-12-16 09:25:23"
+    },
+    "mDYrWATIRJUINXXTLr2F": {
+      "status": "Đã giao",
+      "receiptID": "mDYrWATIRJUINXXTLr2F",
+      "date": "2019-12-16 01:57:19",
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 70000,
+      "deliveryAdd": "Quận 3"
+    },
+    "mc3r1sLf4qj7AG04y0X7": {
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 50000,
+      "deliveryAdd": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "status": "Đã giao",
+      "receiptID": "mc3r1sLf4qj7AG04y0X7",
+      "date": "2019-12-16 09:16:33"
+    },
+    "xy3t6tqp4a7ox1gpsjJg": {
+      "date": "2019-12-13 16:27:04",
+      "phone": 9199999222,
+      "totalPro": 2,
+      "userID": "n4kKPHXzILP5ykv1SIfqZh5qAlr1",
+      "totalPrice": 60000,
+      "deliveryAdd": "655 Điện Biên Phủ P3 Q3 TPHCM",
+      "status": "Đang giao",
+      "receiptID": "xy3t6tqp4a7ox1gpsjJg"
+    }
+  }
+}
